@@ -1,0 +1,71 @@
+29-12-2020 19:13:28	This log contains information about the import schema operation into project 'AnimalDel' on computer 'MOUNTAIN' by user 'admin'.
+29-12-2020 19:13:28	Import of database schema has started.
+29-12-2020 19:13:33	Gathering database options
+29-12-2020 19:13:33	Gathering users
+29-12-2020 19:13:33	Gathering roles
+29-12-2020 19:13:33	Gathering application roles
+29-12-2020 19:13:33	Gathering role memberships
+29-12-2020 19:13:33	Gathering filegroups
+29-12-2020 19:13:33	Gathering full-text catalogs
+29-12-2020 19:13:33	Gathering assemblies
+29-12-2020 19:13:33	Gathering certificates
+29-12-2020 19:13:33	Gathering asymmetric keys
+29-12-2020 19:13:33	Gathering symmetric keys
+29-12-2020 19:13:33	Gathering encrypted symmetric keys
+29-12-2020 19:13:33	Gathering schemas
+29-12-2020 19:13:33	Gathering XML schema collections
+29-12-2020 19:13:33	Gathering user-defined data types
+29-12-2020 19:13:33	Gathering user-defined types
+29-12-2020 19:13:33	Gathering table types
+29-12-2020 19:13:33	Gathering unique keys for table types
+29-12-2020 19:13:33	Gathering primary keys for table types
+29-12-2020 19:13:33	Gathering check constraints for table types
+29-12-2020 19:13:33	Gathering default constraints for table types
+29-12-2020 19:13:34	Gathering partition functions
+29-12-2020 19:13:34	Gathering partition schemes
+29-12-2020 19:13:34	Gathering functions
+29-12-2020 19:13:34	Gathering encrypted functions
+29-12-2020 19:13:34	Gathering aggregates
+29-12-2020 19:13:34	Gathering procedures
+29-12-2020 19:13:34	Gathering encrypted procedures
+29-12-2020 19:13:34	Gathering tables
+29-12-2020 19:13:34	Gathering primary keys
+29-12-2020 19:13:34	Gathering unique constraints
+29-12-2020 19:13:34	Gathering foreign keys
+29-12-2020 19:13:34	Gathering default constraints
+29-12-2020 19:13:34	Gathering check constraints
+29-12-2020 19:13:34	Gathering views
+29-12-2020 19:13:34	Gathering encrypted views
+29-12-2020 19:13:34	Gathering indexes
+29-12-2020 19:13:34	Gathering statistics
+29-12-2020 19:13:34	Gathering full-text index stoplists
+29-12-2020 19:13:34	Gathering full-text indexes
+29-12-2020 19:13:34	Gathering spatial indexes
+29-12-2020 19:13:34	Gathering XML indexes
+29-12-2020 19:13:34	Gathering encrypted triggers
+29-12-2020 19:13:34	Gathering triggers
+29-12-2020 19:13:34	Gathering encrypted and clr ddl triggers
+29-12-2020 19:13:34	Gathering ddl triggers
+29-12-2020 19:13:34	Gathering synonyms
+29-12-2020 19:13:34	Gathering defaults
+29-12-2020 19:13:34	Gathering data constraint uddt bindings
+29-12-2020 19:13:34	Gathering rules
+29-12-2020 19:13:34	Gathering data constraint uddt bindings
+29-12-2020 19:13:34	Gathering message types
+29-12-2020 19:13:34	Gathering queues
+29-12-2020 19:13:34	Gathering contracts
+29-12-2020 19:13:34	Gathering services
+29-12-2020 19:13:34	Gathering event notifications
+29-12-2020 19:13:34	Gathering remote service bindings
+29-12-2020 19:13:34	Gathering broker priorities
+29-12-2020 19:13:34	Gathering signatures
+29-12-2020 19:13:34	Gathering data compression options
+29-12-2020 19:13:34	Gathering extended properties
+29-12-2020 19:13:35	Gathering credentials
+29-12-2020 19:13:35	Gathering logins
+29-12-2020 19:13:35	Gathering server audits
+29-12-2020 19:13:35	Scanning project for duplicate elements
+29-12-2020 19:13:35	Finished duplicate element processing
+29-12-2020 19:13:35	Finished importing database.
+29-12-2020 19:13:35	A summary of the import was saved to the following location: C:\Users\admin\source\repos\Animal\AnimalDel\AnimalDel\Import Schema Logs\AnimalDel_20201229014328.log
+29-12-2020 19:13:35	Click Finish to continue...
